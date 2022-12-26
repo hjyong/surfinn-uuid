@@ -1,0 +1,28 @@
+{
+  "name": "surfinn-uuid",
+  "version": "1.0.2",
+  "description": "Fast UUID generator, RFC4122 version 4 compliant.",
+  "keywords": [
+    "uuid",
+    "v4"
+  ],
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist",
+    "LICENSE",
+    "README.md"
+  ],
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "scripts": {
+    "build": "tsc --project tsconfig.json"
+  },
+  "author": "Hyeong Jin Yong <gilseonappa@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  }
+}
