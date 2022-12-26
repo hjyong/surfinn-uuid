@@ -1,6 +1,6 @@
 {
   "name": "surfinn-uuid",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "Fast UUID generator, RFC4122 version 4 compliant.",
   "keywords": [
     "uuid",
@@ -15,7 +15,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/hjyong/surfinn-uuid.git"
   },
   "scripts": {
     "build": "tsc --project tsconfig.json"
